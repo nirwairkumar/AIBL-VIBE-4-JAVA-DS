@@ -57,3 +57,12 @@ public class Example69_BookEquality {
         System.out.println("b1.equals(b2): "+ b1.equals(b2)); //true
     }
 }
+
+//=====output=========
+/*-
+Book 1: "Species" by John Baher
+Book 2: "Species" by John Baher
+b1 == b2: false
+b1.equals(b2): true
+ */
+//========================
